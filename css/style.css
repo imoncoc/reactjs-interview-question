@@ -1,0 +1,26 @@
+
+:root{
+    --color-main: #303F9F;
+    --color-grey: #555555;
+    --color-white: #fff;
+
+    --color-1: #264653;
+    --color-2: #2a9d8f;
+    --color-3: #e9c46a;
+    --color-4: #f4a261;
+    --color-5: #e76f51;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Inter', sans-serif;
+}
+
+.react-navbar{
+    background: rgba(16, 144, 216, 0.15) !important;
+}
+
